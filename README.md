@@ -7,3 +7,9 @@ Development tools:
 - Node JS with NPM
 - Github
 - JDK 8
+
+- Start Spring Boot in localhost;8080
+Run class ReactAndSpringDataRestApplication
+
+- Start React Server in localhost:3000
+Execute command from /client folder: npm start
