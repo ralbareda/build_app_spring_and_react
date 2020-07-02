@@ -26,7 +26,7 @@
 
 # Production build #
 
--- Build project:
+-- Build and run project:
 > Execute: mvn clean install
   .jar file should be generated in your /target path
   
