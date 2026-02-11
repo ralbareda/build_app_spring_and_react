@@ -3,7 +3,8 @@
 -- Development tools
 - SpringBoot with JDK 8
 - VS Code and Eclipse framework
-- Node JS with NPM
+- Node JS with NPM test git!
+-- test git!
 
 -- Source code:
 - Clone repository from https://github.com/ralbareda/build_app_spring_and_react.git
